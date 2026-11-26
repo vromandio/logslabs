@@ -1,0 +1,46 @@
+{
+  "variants": {
+    "axis=x,type=bottom,waterlogged=false": {
+      "model": "logslabs:block/oak_wood_slab",
+      "y": 90
+    },
+    "axis=x,type=bottom,waterlogged=true": {
+      "model": "logslabs:block/oak_wood_slab",
+      "y": 90
+    },
+    "axis=x,type=double,waterlogged=false": {
+      "model": "minecraft:block/oak_wood",
+      "y": 90
+    },
+    "axis=x,type=double,waterlogged=true": {
+      "model": "minecraft:block/oak_wood",
+      "y": 90
+    },
+    "axis=x,type=top,waterlogged=false": {
+      "model": "logslabs:block/oak_wood_slab_top",
+      "y": 90
+    },
+    "axis=x,type=top,waterlogged=true": {
+      "model": "logslabs:block/oak_wood_slab_top",
+      "y": 90
+    },
+    "axis=z,type=bottom,waterlogged=false": {
+      "model": "logslabs:block/oak_wood_slab"
+    },
+    "axis=z,type=bottom,waterlogged=true": {
+      "model": "logslabs:block/oak_wood_slab"
+    },
+    "axis=z,type=double,waterlogged=false": {
+      "model": "minecraft:block/oak_wood"
+    },
+    "axis=z,type=double,waterlogged=true": {
+      "model": "minecraft:block/oak_wood"
+    },
+    "axis=z,type=top,waterlogged=false": {
+      "model": "logslabs:block/oak_wood_slab_top"
+    },
+    "axis=z,type=top,waterlogged=true": {
+      "model": "logslabs:block/oak_wood_slab_top"
+    }
+  }
+}

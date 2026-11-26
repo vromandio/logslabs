@@ -1,0 +1,64 @@
+{
+  "values": {
+    "logslabs:oak_log_slab": {
+      "stripped_block": "logslabs:stripped_oak_log_slab"
+    },
+    "logslabs:oak_wood_slab": {
+      "stripped_block": "logslabs:stripped_oak_wood_slab"
+    },
+    "logslabs:spruce_log_slab": {
+      "stripped_block": "logslabs:stripped_spruce_log_slab"
+    },
+    "logslabs:spruce_wood_slab": {
+      "stripped_block": "logslabs:stripped_spruce_wood_slab"
+    },
+    "logslabs:birch_log_slab": {
+      "stripped_block": "logslabs:stripped_birch_log_slab"
+    },
+    "logslabs:birch_wood_slab": {
+      "stripped_block": "logslabs:stripped_birch_wood_slab"
+    },
+    "logslabs:jungle_log_slab": {
+      "stripped_block": "logslabs:stripped_jungle_log_slab"
+    },
+    "logslabs:jungle_wood_slab": {
+      "stripped_block": "logslabs:stripped_jungle_wood_slab"
+    },
+    "logslabs:acacia_log_slab": {
+      "stripped_block": "logslabs:stripped_acacia_log_slab"
+    },
+    "logslabs:acacia_wood_slab": {
+      "stripped_block": "logslabs:stripped_acacia_wood_slab"
+    },
+    "logslabs:dark_oak_log_slab": {
+      "stripped_block": "logslabs:stripped_dark_oak_log_slab"
+    },
+    "logslabs:dark_oak_wood_slab": {
+      "stripped_block": "logslabs:stripped_dark_oak_wood_slab"
+    },
+    "logslabs:mangrove_log_slab": {
+      "stripped_block": "logslabs:stripped_mangrove_log_slab"
+    },
+    "logslabs:mangrove_wood_slab": {
+      "stripped_block": "logslabs:stripped_mangrove_wood_slab"
+    },
+    "logslabs:cherry_log_slab": {
+      "stripped_block": "logslabs:stripped_cherry_log_slab"
+    },
+    "logslabs:cherry_wood_slab": {
+      "stripped_block": "logslabs:stripped_cherry_wood_slab"
+    },
+    "logslabs:crimson_stem_slab": {
+      "stripped_block": "logslabs:stripped_crimson_stem_slab"
+    },
+    "logslabs:crimson_hyphae_slab": {
+      "stripped_block": "logslabs:stripped_crimson_hyphae_slab"
+    },
+    "logslabs:warped_stem_slab": {
+      "stripped_block": "logslabs:stripped_warped_stem_slab"
+    },
+    "logslabs:warped_hyphae_slab": {
+      "stripped_block": "logslabs:stripped_warped_hyphae_slab"
+    }
+  }
+}

@@ -1,0 +1,4 @@
+// 1.21.1	2026-11-27T01:35:30.713331	Tags for minecraft:item mod id logslabs
+58b031b7038222310d21f83a2a7075b83640827a data/logslabs/tags/item/log_slabs.json
+8b6fff5741d9436d46836de778cd2a65bdb7e1d5 data/minecraft/tags/item/non_flammable_wood.json
+58b031b7038222310d21f83a2a7075b83640827a data/minecraft/tags/item/slabs.json

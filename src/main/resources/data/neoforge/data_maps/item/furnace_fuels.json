@@ -1,0 +1,100 @@
+{
+  "values": {
+    "logslabs:oak_log_slab": {
+      "burn_time": 150
+    },
+    "logslabs:oak_wood_slab": {
+      "burn_time": 150
+    },
+    "logslabs:stripped_oak_log_slab": {
+      "burn_time": 150
+    },
+    "logslabs:stripped_oak_wood_slab": {
+      "burn_time": 150
+    },
+    "logslabs:spruce_log_slab": {
+      "burn_time": 150
+    },
+    "logslabs:spruce_wood_slab": {
+      "burn_time": 150
+    },
+    "logslabs:stripped_spruce_log_slab": {
+      "burn_time": 150
+    },
+    "logslabs:stripped_spruce_wood_slab": {
+      "burn_time": 150
+    },
+    "logslabs:birch_log_slab": {
+      "burn_time": 150
+    },
+    "logslabs:birch_wood_slab": {
+      "burn_time": 150
+    },
+    "logslabs:stripped_birch_log_slab": {
+      "burn_time": 150
+    },
+    "logslabs:stripped_birch_wood_slab": {
+      "burn_time": 150
+    },
+    "logslabs:jungle_log_slab": {
+      "burn_time": 150
+    },
+    "logslabs:jungle_wood_slab": {
+      "burn_time": 150
+    },
+    "logslabs:stripped_jungle_log_slab": {
+      "burn_time": 150
+    },
+    "logslabs:stripped_jungle_wood_slab": {
+      "burn_time": 150
+    },
+    "logslabs:acacia_log_slab": {
+      "burn_time": 150
+    },
+    "logslabs:acacia_wood_slab": {
+      "burn_time": 150
+    },
+    "logslabs:stripped_acacia_log_slab": {
+      "burn_time": 150
+    },
+    "logslabs:stripped_acacia_wood_slab": {
+      "burn_time": 150
+    },
+    "logslabs:dark_oak_log_slab": {
+      "burn_time": 150
+    },
+    "logslabs:dark_oak_wood_slab": {
+      "burn_time": 150
+    },
+    "logslabs:stripped_dark_oak_log_slab": {
+      "burn_time": 150
+    },
+    "logslabs:stripped_dark_oak_wood_slab": {
+      "burn_time": 150
+    },
+    "logslabs:mangrove_log_slab": {
+      "burn_time": 150
+    },
+    "logslabs:mangrove_wood_slab": {
+      "burn_time": 150
+    },
+    "logslabs:stripped_mangrove_log_slab": {
+      "burn_time": 150
+    },
+    "logslabs:stripped_mangrove_wood_slab": {
+      "burn_time": 150
+    },
+    "logslabs:cherry_log_slab": {
+      "burn_time": 150
+    },
+    "logslabs:cherry_wood_slab": {
+      "burn_time": 150
+    },
+    "logslabs:stripped_cherry_log_slab": {
+      "burn_time": 150
+    },
+    "logslabs:stripped_cherry_wood_slab": {
+      "burn_time": 150
+    }
+  }
+}
