@@ -59,7 +59,7 @@ Requirements: JDK 21.
 ### Links
 
 GitHub: https://github.com/vromandio/logslabs  
-CurseForge: coming soon
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/log-slabs
 
 ### License
 

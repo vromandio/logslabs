@@ -60,7 +60,7 @@ NeoForge-мод для Minecraft 1.21.1, добавляющий плиты из 
 ### Ссылки
 
 GitHub: https://github.com/vromandio/logslabs  
-CurseForge: будет позже
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/log-slabs
 
 ### Лицензия
 
